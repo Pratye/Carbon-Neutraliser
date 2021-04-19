@@ -6,3 +6,8 @@ This repository contains the research paper for the idea, a drive link to a vide
 
 ## About The App
 The app contains basic functionalities like scanning the QR codes and showing the stats. The app is in beta version and does not has all the buttons funtionaing.  However the app shows the blueprint of the idea and can be tried.
+
+## Video Link
+ This is a drive link to a video that describes the whole idea.
+#### Video Link: https://drive.google.com/file/d/1vYNqJweCkKGc7p0jg7Zd2P2wnORdQ-uX/view?usp=sharing
+ 
