@@ -1,5 +1,5 @@
 ## Carbon-Neutraliser
-Carbon Neutraliser is an idea to solve the problem of cleanlines or waste disposal in cities. The Internet of Things (I.O.T) Based Smart Garbage System Integrated With Carbon Neutraliser App helps in reducing the problem of waste management by ensuring that people put their garbage in the dustbin to get a few bucks for their trash. 
+Carbon Neutraliser is an idea to solve the problem of cleanliness or waste disposal in cities. The Internet of Things (I.O.T) Based Smart Garbage System Integrated With Carbon Neutraliser App helps in reducing the problem of waste management by ensuring that people put their garbage in the dustbin to get a few bucks for their trash. 
 
 ## About This Repository
 This repository contains the research paper for the idea, a drive link to a video about this idea (attached in README.md, below) and also contains a .apk file that can used to download the Carbon Neutraliser App.
