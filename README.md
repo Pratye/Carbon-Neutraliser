@@ -9,5 +9,5 @@ The app contains basic functionalities like scanning the QR codes and showing th
 
 ## Video Link
  This is a drive link to a video that describes the whole idea.
-#### Video Link: https://drive.google.com/file/d/1vYNqJweCkKGc7p0jg7Zd2P2wnORdQ-uX/view?usp=sharing
+#### Video Link: https://youtu.be/46GH9z2EISw
  
