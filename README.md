@@ -12,5 +12,6 @@ The app contains basic functionalities like scanning the QR codes and showing th
 #### Video Link: https://youtu.be/46GH9z2EISw
  
 ## App
-Home Page:
-![alt text](https://github.com/Pratye/Carbon-Neutraliser/blob/images/1.png?raw=true)
+![alt text](https://github.com/Pratye/Carbon-Neutraliser/blob/main/images/home.png)
+![alt text](https://github.com/Pratye/Carbon-Neutraliser/blob/main/images/2.png)
+![alt text](https://github.com/Pratye/Carbon-Neutraliser/blob/main/images/1.png)
