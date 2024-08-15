@@ -12,5 +12,5 @@ The app contains basic functionalities like scanning the QR codes and showing th
 #### Video Link: https://youtu.be/46GH9z2EISw
  
 ## App
-<img src="/images/home.png" width="300"/><img src="/images/1.png" width="300"/><img src="/images/2.png" width="300"/>
+<img src="/images/home.png" width="300"/>  <img src="/images/1.png" width="300"/>  <img src="/images/2.png" width="300"/>
 
